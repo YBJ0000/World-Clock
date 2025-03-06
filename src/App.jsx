@@ -61,7 +61,7 @@ const App = () => {
       <GlobalStyle />
       <Container>
         <Clock city={'Sydney'} timezone={10} />
-        <Clock city={'China'} timezone={8} />
+        <Clock city={'Beijing'} timezone={8} />
         <Clock city={'London'} timezone={1} />
         <Clock city={'New York'} timezone={-4} />
       </Container>
